@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OriSwidWork
+- 👋 Hi, I’m Ori Swid
 - 👀 I’m interested in FrontEnd Development and frameworks
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
